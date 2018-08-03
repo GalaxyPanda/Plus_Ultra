@@ -1,0 +1,34 @@
+
+body{
+    background: #EBEBD3;
+}
+
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: gray;
+    display:inline;
+    
+    
+}
+
+.footer ul{
+    text-decoration: none;
+    display: 
+    
+}
+
+.footer li{
+    display: inline-block;
+    line-height: 3;
+    padding-left: 50px;
+}
+
+
+a {
+     text-decoration: none;
+    
+}
