@@ -20,7 +20,7 @@
 ; enter your terminal preferences here...
 
 [preview]
-index_file = HTML/Index.html
+index_file = HTML/index.html
 ; enter your preview preferences here...
 
 [search]
