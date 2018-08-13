@@ -41,3 +41,12 @@ a {
 .App{
     left:
 }
+
+.reasons{
+    padding:100px;
+}
+
+.float{
+        float: right;
+    padding-left:10px;
+}
